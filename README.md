@@ -20,32 +20,26 @@
 - Python 3.7
 
 ## Как запустить проект
-
 Склонировать репозиторий:  
 ``` 
 git@github.com:LianaVolkova/hw_python_oop.git 
 ``` 
-Cоздать и активировать виртуальное окружение:
 
+Cоздать и активировать виртуальное окружение:
 ``` 
 python -m venv env
 ```
-
 ``` 
 source venv/Scripts/activate
 ```
-
 ``` 
 python -m pip install --upgrade pip
 ```
 
 Установить зависимости из файла requirements.txt:
-
 ``` 
 pip install -r requirements.txt
 ```
-
-Запустить программу (homework.py)
 
 ### Автор
 Волкова Лиана
